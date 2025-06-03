@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbie-mccray)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact)
 
 <!--
 **robbie-mccray/robbie-mccray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Ideas:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+This is the Github stats Things for when they look good:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbie-mccray)](https://github.com/anuraghazra/github-readme-stats)
 -->
