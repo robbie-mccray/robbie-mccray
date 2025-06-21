@@ -6,7 +6,7 @@ I'm a passionate graduate software developer who loves building and solving prob
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 📊 HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20stars-brightgreen)](https://www.hackerrank.com/YOUR_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20stars-brightgreen)](https://www.hackerrank.com/RobbieMcC)
 
 ## 📫 Connect with Me
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/yourusername)
