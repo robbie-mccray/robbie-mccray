@@ -9,8 +9,8 @@ I'm a passionate graduate software developer who loves building and solving prob
 [![HackerRank](https://img.shields.io/badge/HackerRank-5%20stars-brightgreen)](https://www.hackerrank.com/RobbieMcC)
 
 ## 📫 Connect with Me
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/yourusername)
-- Email: your@email.com
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/robbie-mccray-7b0929223)
+- Email: RobbieMcC@Outlook.com
 
 <!--
 Ideas:
