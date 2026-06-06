@@ -2,7 +2,7 @@
 
 I'm a passionate graduate software developer who loves building and solving problems with code.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=robbie-mccray)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=robbie-mccray&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📊 HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-5%20stars-brightgreen)](https://www.hackerrank.com/RobbieMcC)
