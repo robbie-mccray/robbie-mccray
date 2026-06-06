@@ -8,6 +8,24 @@ I'm a passionate graduate software developer who loves building and solving prob
 [![Top Langs stats-dark](https://github-stats-extended.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
 [![Top Langs stats-light](https://github-stats-extended.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact&theme=default#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
 
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only">
+    <img src="https://github-stats-extended.vercel.app/api?username=robbie-mccray&show_icons=true&theme=dark#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended#gh-light-mode-only">
+    <img src="https://github-stats-extended.vercel.app/api?username=robbie-mccray&show_icons=true&theme=default#gh-light-mode-only" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact&theme=dark#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended#gh-light-mode-only">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact&theme=default#gh-light-mode-only" />
+  </a>
+</p>
+
 ## 📊 HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-5%20stars-brightgreen)](https://www.hackerrank.com/RobbieMcC)
 
