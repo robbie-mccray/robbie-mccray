@@ -1,7 +1,7 @@
 ## Hello  <img src="gif-dir/hand-waving-hand.gif" width="25" height="25"/>
 
-I'm a passionate graduate software developer who loves building and solving problems with code currenty working @ Venn Digital.
 <p align="center">
+  I'm a passionate graduate software developer who loves building and solving problems with code currenty working @ Venn Digital.
   <a href="https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only">
     <img src="https://github-stats-extended.vercel.app/api?username=robbie-mccray&show_icons=true&theme=dark#gh-dark-mode-only" />
   </a>
