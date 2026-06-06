@@ -2,8 +2,8 @@
 
 I'm a passionate graduate software developer who loves building and solving problems with code.
 
-[![Anurag's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
+[![Robbie's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
+[![Robbie's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
 
 ![Top Langs stats-dark](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark#gh-dark-mode-only)
 ![Top Langs stats-light](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default#gh-light-mode-only)
