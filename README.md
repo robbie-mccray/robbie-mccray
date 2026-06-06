@@ -1,8 +1,8 @@
 ## Hello  <img src="gif-dir/hand-waving-hand.gif" width="25" height="25"/>
 
-<p align="center">
-    #I'm a passionate graduate software developer who loves building and solving problems with code currenty working @ Venn Digital.
-</p>
+<h4 align="center">
+    I'm a passionate graduate software developer who loves building and solving problems with code currenty working @ Venn Digital.
+</h4>
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only">
