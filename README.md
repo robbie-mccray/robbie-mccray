@@ -1,13 +1,6 @@
 ## Hello  <img src="gif-dir/hand-waving-hand.gif" width="25" height="25"/>
 
 I'm a passionate graduate software developer who loves building and solving problems with code.
-
-[![Robbie's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=robbie-mccray&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
-[![Robbie's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=robbie-mccray&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
-
-[![Top Langs stats-dark](https://github-stats-extended.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
-[![Top Langs stats-light](https://github-stats-extended.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact&theme=default#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
-
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only">
     <img src="https://github-stats-extended.vercel.app/api?username=robbie-mccray&show_icons=true&theme=dark#gh-dark-mode-only" />
