@@ -2,11 +2,7 @@
 
 I'm a passionate graduate software developer who loves building and solving problems with code.
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=robbie-mccray&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=robbie-mccray&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=robbie-mccray&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=robbie-mccray)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📊 HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-5%20stars-brightgreen)](https://www.hackerrank.com/RobbieMcC)
